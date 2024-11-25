@@ -1,4 +1,4 @@
-![](https://github.com/katlande/Schboop/blob/main/icon.png =72x48)
+![](https://github.com/katlande/Schboop/blob/main/icon.png | width=48)
 
 #Schboop
 
