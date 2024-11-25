@@ -1,4 +1,4 @@
-![](https://github.com/katlande/Schboop/blob/main/icon.png | width=48)
+<img src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" alt="Alt Text" style="width:10%; height:auto;">
 
 #Schboop
 
