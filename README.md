@@ -1,2 +1,2 @@
-# Schboop
-The only runelite plugin approved by Robert Prime
+# Example
+An example greeter plugin
